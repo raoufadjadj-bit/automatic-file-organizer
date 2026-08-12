@@ -5,11 +5,11 @@ A smart and efficient Python script that declutters your messy folders (like the
 ## ✨ Features
 * **Zero Manual Effort:** Creates folders and moves files instantly.
 * **Smart Categorization:** Automatically groups files into:
-  * 📸 `Photos` (.jpg, .png)
-  * 🎥 `Videos` (.mp4, .mkv)
-  * 📄 `Doc` (.docx, .pdf)
+  * 📸 `Photos` (.jpg)
+  * 🎥 `Videos` (.mp4)
+  * 📄 `Doc` (.docx)
 * **Safe Execution:** Automatically ignores the script file itself to avoid self-displacement.
-
+(note: other files type like pdf will added soon.)
 ## 🛠️ Built With
 * Python 3
 * `os` module (Built-in)
